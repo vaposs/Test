@@ -1,0 +1,6 @@
+/Users/walter/Projects/DS/bin/Debug/DS.exe
+/Users/walter/Projects/DS/bin/Debug/DS.pdb
+/Users/walter/Projects/DS/obj/Debug/DS.csproj.AssemblyReference.cache
+/Users/walter/Projects/DS/obj/Debug/DS.csproj.CoreCompileInputs.cache
+/Users/walter/Projects/DS/obj/Debug/DS.exe
+/Users/walter/Projects/DS/obj/Debug/DS.pdb
